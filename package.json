@@ -1,0 +1,13 @@
+{
+  "name": "poo_esfera",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Eliel Bernardi",
+  "license": "MIT",
+  "description": "Sistema para cálculo de área e volume de uma esfera"
+}
